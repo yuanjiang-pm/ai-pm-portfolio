@@ -1,0 +1,10 @@
+# macOS / 编辑器
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 导出与预览中间产物（本机专属，不入库）
+.export-manifest.json
+scripts/__pycache__/
+*.html
