@@ -24,19 +24,6 @@
 
 ---
 
-## 六个系列
-
-| # | 系列 | 篇数 | 字数 | 说明 |
-|---:|---|---:|---:|---|
-| 01 | [**AI Evals 评估体系**](01-ai-evals/) | 7 | 20,077 | 主打。从错误分析到生产监控飞轮的完整路径 |
-| 02 | [**OpenClaw 架构研习课**](02-openclaw-architecture/) | 13 | 26,211 | 面向 PM 逐层拆解一个开源 Agent 系统 |
-| 03 | [**Codex 架构实战课程**](03-codex-architecture/) | 15 | 13,550 | 一个内核五种形态，run_turn 主循环解剖 |
-| 04 | [**AI 产品经理实战课程**](04-ai-pm-playbook/) | 12 | 17,447 | 把 Agent 技术翻译成 PM 可执行的设计框架 |
-| 05 | [**AI 产品经理访谈深读**](05-ai-pm-interviews/) | 5 | 12,986 | Dianne Penn / Cat Wu / Jyothi Nookula 一手观点 |
-| 06 | [**NCA-GENL 备考笔记**](06-nca-genl-notes/) | 15 | 28,367 | NVIDIA 生成式 AI 认证 D0 到 D14 全体系 |
-
----
-
 ## 七个系列
 
 | # | 系列 | 篇数 | 字数 | 说明 |
@@ -137,7 +124,7 @@ RAG 是个两阶段流水线：`Query → 检索 → Top-K 文档 → 生成 →
 
 | 你的时间 | 建议看什么 |
 |---|---|
-| **5 分钟** | 本页的「三个判断」+ [AI Evals 系列索引](01-ai-evals/) |
+| **5 分钟** | 本页的「四个判断」+ [AI Evals 系列索引](01-ai-evals/) |
 | **30 分钟** | [D1 Evals 是什么](01-ai-evals/01-what-is-evals.md) → [D2 错误分析](01-ai-evals/02-error-analysis.md) → [D6 RAG 评估](01-ai-evals/06-rag-eval-and-tooling.md) |
 | **想看技术深度** | [OpenClaw 架构](02-openclaw-architecture/) 第 1 到 5 课，或 [Codex](03-codex-architecture/) 的 run_turn 解剖 |
 | **想看产品翻译能力** | [AI PM 实战课程](04-ai-pm-playbook/)，尤其第 08 课 Codex 与 OpenClaw 设计哲学对比 |
